@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable-v24/radius_border_button_text.xml" value="0.1385" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/check_box.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.3635" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2005" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_outline_radio_button_unchecked_24.xml" value="0.3125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/ic_round_check_circle_24.xml" value="0.3125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/radius_border_button.xml" value="0.1645" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/radius_border_button1.xml" value="0.1595" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/radius_border_button_text.xml" value="0.3365" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/drawable/side_nav_bar.xml" value="0.2025" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_add_modify_task.xml" value="0.3008658008658009" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_alarm.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_event_edit.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_jointproject.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_month_view.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_setting.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_test.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/activity_week_view_avtivity.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/content_navigation_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/date_picker.xml" value="0.2579787234042553" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/dialog_completed_theme.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/event_cell.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_calendar_view.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_create_task.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_gallery.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_joint_project.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_joint_schedule.xml" value="0.3484375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_logout.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_personal_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_setting.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_slideshow.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/fragment_user.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/item_task.xml" value="0.1732283464566929" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/layout_header_nav.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/line_item.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/task_list_row.xml" value="0.27300613496932513" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/layout/time_picker.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/menu/activity_navigation_drawer_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/menu/menu_bottom_bar.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/menu/menu_bottom_nav.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/menu/navigation_drawer.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MySche2022/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.106" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
